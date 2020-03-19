@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aingaixaic.rroyal.io/sitemap.xml
